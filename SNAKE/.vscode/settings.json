@@ -1,0 +1,17 @@
+{
+    "Lua.diagnostics.globals": [
+        "rectangle_length",
+        "dt",
+        "loop",
+        "love",
+        "game_restart",
+        "game_update",
+        "game_draw",
+        "add_apple",
+        "tail_length",
+        "interval",
+        "State",
+        "up",
+        "left"
+    ]
+}
